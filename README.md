@@ -1,5 +1,4 @@
 # 🏗️ Assessing Alternatives to the Surface Area Heuristic for Bounding Volume Hierarchy Construction
-
-[![Banner](banner.png)](https://images.squarespace-cdn.com/content/v1/5de4ee0c9ab6b86728ffeec8/e7ec016c-6ccf-4f71-8809-c03b891fc7f7/banner.jpg?format=1500w)
+![image](https://github.com/Traverse-Research/Assessing-alternatives-to-SAH/assets/7345604/46158a9c-9fe7-4bfe-85f7-a914ca1e535d)
 
 In this repository you can find the raw testing data and Master thesis by Athos van Kralingen on "Assessing Alternatives to the Surface Area Heuristic for Bounding Volume Hierarchy Construction". The final thesis can also be found [in here](https://github.com/Traverse-Research/Assessing-alternatives-to-SAH/blob/main/master_thesis_bvhs.pdf).
