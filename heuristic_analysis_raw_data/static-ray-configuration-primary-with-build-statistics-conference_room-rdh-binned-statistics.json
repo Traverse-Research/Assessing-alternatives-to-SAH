@@ -1,0 +1,2978 @@
+{
+  "render_statistics": [
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 169272900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 735
+        },
+        "traversal_steps": 7274172,
+        "intersection_tests": 1645135
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 563274900
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24146
+          },
+          "traversal_steps": 9274626,
+          "intersection_tests": 575093625
+        },
+        {
+          "rays_shot": 230385,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 428968900
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 40927
+          },
+          "traversal_steps": 8623113,
+          "intersection_tests": 989888856
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073249,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 904305900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25035
+        },
+        "traversal_steps": 110300418,
+        "intersection_tests": 5300414248
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073249,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 146932700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29976
+        },
+        "traversal_steps": 64504949,
+        "intersection_tests": 6497664951
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 184998700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 803
+        },
+        "traversal_steps": 7275752,
+        "intersection_tests": 1659298
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 690931000
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24700
+          },
+          "traversal_steps": 9264655,
+          "intersection_tests": 586864097
+        },
+        {
+          "rays_shot": 230389,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 540780200
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41412
+          },
+          "traversal_steps": 8611509,
+          "intersection_tests": 1002928051
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073282,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 331099700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25241
+        },
+        "traversal_steps": 110258112,
+        "intersection_tests": 5352530663
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073282,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 895442200
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 30336
+        },
+        "traversal_steps": 64564243,
+        "intersection_tests": 6561636417
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 175727600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 763
+        },
+        "traversal_steps": 7275815,
+        "intersection_tests": 1650970
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 512882600
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 23927
+          },
+          "traversal_steps": 9281602,
+          "intersection_tests": 577796991
+        },
+        {
+          "rays_shot": 230388,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 587594000
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41615
+          },
+          "traversal_steps": 8651545,
+          "intersection_tests": 997078096
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073273,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 298230900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25225
+        },
+        "traversal_steps": 110437147,
+        "intersection_tests": 5325041171
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073273,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 80967500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29943
+        },
+        "traversal_steps": 64634380,
+        "intersection_tests": 6505814645
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 169262500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 735
+        },
+        "traversal_steps": 7273018,
+        "intersection_tests": 1655799
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 657130700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24554
+          },
+          "traversal_steps": 9287210,
+          "intersection_tests": 588322991
+        },
+        {
+          "rays_shot": 230382,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 773897100
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 42425
+          },
+          "traversal_steps": 8650330,
+          "intersection_tests": 1002352174
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073213,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 437992100
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25293
+        },
+        "traversal_steps": 110494017,
+        "intersection_tests": 5359673616
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073213,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 987110600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29899
+        },
+        "traversal_steps": 64650753,
+        "intersection_tests": 6544686170
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 185270500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 804
+        },
+        "traversal_steps": 7275284,
+        "intersection_tests": 1643054
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 579097600
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24215
+          },
+          "traversal_steps": 9278439,
+          "intersection_tests": 580722394
+        },
+        {
+          "rays_shot": 230386,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 361827700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 40635
+          },
+          "traversal_steps": 8635335,
+          "intersection_tests": 999434278
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073264,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 741545700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 24957
+        },
+        "traversal_steps": 110277429,
+        "intersection_tests": 5352993081
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073264,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 754375000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29786
+        },
+        "traversal_steps": 64626029,
+        "intersection_tests": 6538452095
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 169581400
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 736
+        },
+        "traversal_steps": 7275301,
+        "intersection_tests": 1654279
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 577862200
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24209
+          },
+          "traversal_steps": 9277129,
+          "intersection_tests": 583455457
+        },
+        {
+          "rays_shot": 230383,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 510187300
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41280
+          },
+          "traversal_steps": 8627913,
+          "intersection_tests": 991593621
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073240,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 392539400
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 24789
+        },
+        "traversal_steps": 110296768,
+        "intersection_tests": 5300583413
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073240,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 133015300
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29487
+        },
+        "traversal_steps": 64556234,
+        "intersection_tests": 6463002932
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 169609100
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 736
+        },
+        "traversal_steps": 7276296,
+        "intersection_tests": 1647139
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 567879600
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24166
+          },
+          "traversal_steps": 9280410,
+          "intersection_tests": 586300991
+        },
+        {
+          "rays_shot": 230389,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 455497200
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41041
+          },
+          "traversal_steps": 8633030,
+          "intersection_tests": 1003695649
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073276,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 203158500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25179
+        },
+        "traversal_steps": 110355298,
+        "intersection_tests": 5359620781
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073276,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 842088100
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29828
+        },
+        "traversal_steps": 64554547,
+        "intersection_tests": 6535850838
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 209251500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 908
+        },
+        "traversal_steps": 7272920,
+        "intersection_tests": 1641262
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 655942800
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24548
+          },
+          "traversal_steps": 9279691,
+          "intersection_tests": 579790721
+        },
+        {
+          "rays_shot": 230387,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 631350000
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41805
+          },
+          "traversal_steps": 8642084,
+          "intersection_tests": 1004890319
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073258,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 971358300
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25067
+        },
+        "traversal_steps": 110394921,
+        "intersection_tests": 5351465224
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073258,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 536378600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 30163
+        },
+        "traversal_steps": 64620523,
+        "intersection_tests": 6554690283
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 172157700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 747
+        },
+        "traversal_steps": 7272094,
+        "intersection_tests": 1660011
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 538642000
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24039
+          },
+          "traversal_steps": 9284928,
+          "intersection_tests": 579312045
+        },
+        {
+          "rays_shot": 230389,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 436834900
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 40960
+          },
+          "traversal_steps": 8643301,
+          "intersection_tests": 998560937
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073270,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 97590900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25128
+        },
+        "traversal_steps": 110388548,
+        "intersection_tests": 5338504410
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073270,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 323010600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 30060
+        },
+        "traversal_steps": 64640050,
+        "intersection_tests": 6521523307
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 168899700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 733
+        },
+        "traversal_steps": 7272915,
+        "intersection_tests": 1644317
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 625408700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24416
+          },
+          "traversal_steps": 9286088,
+          "intersection_tests": 575344267
+        },
+        {
+          "rays_shot": 230384,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 458936300
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41057
+          },
+          "traversal_steps": 8625673,
+          "intersection_tests": 994370349
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073309,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 498278800
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 24839
+        },
+        "traversal_steps": 110308608,
+        "intersection_tests": 5308454986
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073309,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 780375600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29798
+        },
+        "traversal_steps": 64529249,
+        "intersection_tests": 6482420710
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 184489700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 801
+        },
+        "traversal_steps": 7272601,
+        "intersection_tests": 1652062
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 583571400
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24234
+          },
+          "traversal_steps": 9296162,
+          "intersection_tests": 579159210
+        },
+        {
+          "rays_shot": 230384,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 687029500
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 42047
+          },
+          "traversal_steps": 8643181,
+          "intersection_tests": 1001493036
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073252,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 150355500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25154
+        },
+        "traversal_steps": 110354842,
+        "intersection_tests": 5330621835
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073252,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 45656000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29927
+        },
+        "traversal_steps": 64658765,
+        "intersection_tests": 6542515198
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 170309600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 739
+        },
+        "traversal_steps": 7276772,
+        "intersection_tests": 1658653
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 656709500
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24552
+          },
+          "traversal_steps": 9264419,
+          "intersection_tests": 585225369
+        },
+        {
+          "rays_shot": 230389,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 755135700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 42342
+          },
+          "traversal_steps": 8618511,
+          "intersection_tests": 1007768417
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073246,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 642574000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25391
+        },
+        "traversal_steps": 110223490,
+        "intersection_tests": 5358661696
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073246,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 117771300
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29962
+        },
+        "traversal_steps": 64543070,
+        "intersection_tests": 6555700576
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 174098500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 756
+        },
+        "traversal_steps": 7273658,
+        "intersection_tests": 1642060
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 644524200
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24499
+          },
+          "traversal_steps": 9273952,
+          "intersection_tests": 579007760
+        },
+        {
+          "rays_shot": 230387,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 632060800
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41808
+          },
+          "traversal_steps": 8642904,
+          "intersection_tests": 998383238
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073288,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 964961600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25064
+        },
+        "traversal_steps": 110318132,
+        "intersection_tests": 5313510795
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073288,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 32992500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29920
+        },
+        "traversal_steps": 64622392,
+        "intersection_tests": 6506918643
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 171574200
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 745
+        },
+        "traversal_steps": 7277216,
+        "intersection_tests": 1650552
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 639508000
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24477
+          },
+          "traversal_steps": 9281829,
+          "intersection_tests": 581578524
+        },
+        {
+          "rays_shot": 230388,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 657715900
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41919
+          },
+          "traversal_steps": 8646279,
+          "intersection_tests": 1007257346
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073234,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 675200900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25407
+        },
+        "traversal_steps": 110360308,
+        "intersection_tests": 5367898653
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073234,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 194491200
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29999
+        },
+        "traversal_steps": 64669848,
+        "intersection_tests": 6558644872
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 185243000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 804
+        },
+        "traversal_steps": 7274291,
+        "intersection_tests": 1640733
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 569903200
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24175
+          },
+          "traversal_steps": 9293964,
+          "intersection_tests": 576261550
+        },
+        {
+          "rays_shot": 230388,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 629280200
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41796
+          },
+          "traversal_steps": 8650767,
+          "intersection_tests": 994377911
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073324,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 226876900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25190
+        },
+        "traversal_steps": 110343437,
+        "intersection_tests": 5297640210
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073324,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 126833600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29483
+        },
+        "traversal_steps": 64662311,
+        "intersection_tests": 6477539771
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 182236500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 791
+        },
+        "traversal_steps": 7269211,
+        "intersection_tests": 1658858
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 647601300
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24512
+          },
+          "traversal_steps": 9275130,
+          "intersection_tests": 586013306
+        },
+        {
+          "rays_shot": 230391,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 400439500
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 40802
+          },
+          "traversal_steps": 8619904,
+          "intersection_tests": 997211950
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073285,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 673713600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 24924
+        },
+        "traversal_steps": 110341574,
+        "intersection_tests": 5344507864
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073285,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 338165900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29585
+        },
+        "traversal_steps": 64527755,
+        "intersection_tests": 6527231488
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 170588000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 740
+        },
+        "traversal_steps": 7278812,
+        "intersection_tests": 1649236
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 531447700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24008
+          },
+          "traversal_steps": 9284817,
+          "intersection_tests": 582563664
+        },
+        {
+          "rays_shot": 230385,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 722443500
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 42201
+          },
+          "traversal_steps": 8628418,
+          "intersection_tests": 1007953875
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073264,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 9146000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25086
+        },
+        "traversal_steps": 110355416,
+        "intersection_tests": 5367339473
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073264,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 21994000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29915
+        },
+        "traversal_steps": 64631198,
+        "intersection_tests": 6545860663
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 170435000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 740
+        },
+        "traversal_steps": 7275027,
+        "intersection_tests": 1651862
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 647159700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24510
+          },
+          "traversal_steps": 9284928,
+          "intersection_tests": 582888309
+        },
+        {
+          "rays_shot": 230392,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 671512400
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41979
+          },
+          "traversal_steps": 8625057,
+          "intersection_tests": 1006544041
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073309,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 51623000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25106
+        },
+        "traversal_steps": 110342572,
+        "intersection_tests": 5358548751
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073309,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 107825100
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29956
+        },
+        "traversal_steps": 64553717,
+        "intersection_tests": 6553217867
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 170466500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 740
+        },
+        "traversal_steps": 7277422,
+        "intersection_tests": 1652391
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 677820900
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24643
+          },
+          "traversal_steps": 9269710,
+          "intersection_tests": 581760517
+        },
+        {
+          "rays_shot": 230386,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 726213900
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 42217
+          },
+          "traversal_steps": 8653738,
+          "intersection_tests": 999369737
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073255,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 398943400
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25274
+        },
+        "traversal_steps": 110365591,
+        "intersection_tests": 5363917403
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073255,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 858141600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29836
+        },
+        "traversal_steps": 64688403,
+        "intersection_tests": 6520628559
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 201031500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 873
+        },
+        "traversal_steps": 7273933,
+        "intersection_tests": 1643473
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 709207900
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24780
+          },
+          "traversal_steps": 9270114,
+          "intersection_tests": 582146267
+        },
+        {
+          "rays_shot": 230388,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 616359700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41740
+          },
+          "traversal_steps": 8639764,
+          "intersection_tests": 1000890863
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073309,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 687517700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 24930
+        },
+        "traversal_steps": 110310333,
+        "intersection_tests": 5333108547
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073309,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 857890400
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29835
+        },
+        "traversal_steps": 64629762,
+        "intersection_tests": 6506282763
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 171408900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 744
+        },
+        "traversal_steps": 7273744,
+        "intersection_tests": 1654545
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 624954900
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24414
+          },
+          "traversal_steps": 9292630,
+          "intersection_tests": 581962917
+        },
+        {
+          "rays_shot": 230387,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 660771200
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41933
+          },
+          "traversal_steps": 8640178,
+          "intersection_tests": 1003607044
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073258,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 949114200
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25057
+        },
+        "traversal_steps": 110404768,
+        "intersection_tests": 5344307292
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073258,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 893201700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29853
+        },
+        "traversal_steps": 64641019,
+        "intersection_tests": 6529047699
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 174653200
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 758
+        },
+        "traversal_steps": 7275641,
+        "intersection_tests": 1650592
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 579278800
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24216
+          },
+          "traversal_steps": 9286164,
+          "intersection_tests": 576928523
+        },
+        {
+          "rays_shot": 230392,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 552332500
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41461
+          },
+          "traversal_steps": 8650285,
+          "intersection_tests": 997318745
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073303,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 937501000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25051
+        },
+        "traversal_steps": 110375235,
+        "intersection_tests": 5316236588
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073303,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 494641100
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29660
+        },
+        "traversal_steps": 64607980,
+        "intersection_tests": 6495233208
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 169832700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 737
+        },
+        "traversal_steps": 7273088,
+        "intersection_tests": 1647306
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 626965300
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24423
+          },
+          "traversal_steps": 9277123,
+          "intersection_tests": 570854680
+        },
+        {
+          "rays_shot": 230392,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 328286200
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 40489
+          },
+          "traversal_steps": 8633034,
+          "intersection_tests": 992996721
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073306,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 640903000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 24908
+        },
+        "traversal_steps": 110367146,
+        "intersection_tests": 5322993871
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073306,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 128171000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29483
+        },
+        "traversal_steps": 64567340,
+        "intersection_tests": 6488184806
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 169154700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 734
+        },
+        "traversal_steps": 7270535,
+        "intersection_tests": 1647126
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 537953200
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24036
+          },
+          "traversal_steps": 9295202,
+          "intersection_tests": 581847085
+        },
+        {
+          "rays_shot": 230381,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 595729400
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41652
+          },
+          "traversal_steps": 8618304,
+          "intersection_tests": 989935140
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073207,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 791658500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 24981
+        },
+        "traversal_steps": 110356373,
+        "intersection_tests": 5324583918
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073207,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 669654900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29746
+        },
+        "traversal_steps": 64620702,
+        "intersection_tests": 6491109504
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 170112300
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 738
+        },
+        "traversal_steps": 7277762,
+        "intersection_tests": 1660577
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 521862300
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 23966
+          },
+          "traversal_steps": 9282898,
+          "intersection_tests": 580993441
+        },
+        {
+          "rays_shot": 230384,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 546419700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41437
+          },
+          "traversal_steps": 8624206,
+          "intersection_tests": 1005459662
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073273,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 582664200
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 24880
+        },
+        "traversal_steps": 110273487,
+        "intersection_tests": 5343249360
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073273,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 370980200
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29601
+        },
+        "traversal_steps": 64569865,
+        "intersection_tests": 6527865781
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 170808800
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 741
+        },
+        "traversal_steps": 7274480,
+        "intersection_tests": 1649116
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 508323500
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 23908
+          },
+          "traversal_steps": 9278814,
+          "intersection_tests": 578962425
+        },
+        {
+          "rays_shot": 230384,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 509868300
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41278
+          },
+          "traversal_steps": 8618258,
+          "intersection_tests": 1006160175
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073237,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 327503000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25240
+        },
+        "traversal_steps": 110327896,
+        "intersection_tests": 5362062159
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073237,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 56686100
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29932
+        },
+        "traversal_steps": 64556576,
+        "intersection_tests": 6547123625
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 186272400
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 808
+        },
+        "traversal_steps": 7273301,
+        "intersection_tests": 1650052
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 637933600
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24470
+          },
+          "traversal_steps": 9261114,
+          "intersection_tests": 573254697
+        },
+        {
+          "rays_shot": 230395,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 328699200
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 40490
+          },
+          "traversal_steps": 8630736,
+          "intersection_tests": 996434004
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073342,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 513065300
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 24845
+        },
+        "traversal_steps": 110330480,
+        "intersection_tests": 5301434090
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073342,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 447534700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29637
+        },
+        "traversal_steps": 64524263,
+        "intersection_tests": 6469948749
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 197970400
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 859
+        },
+        "traversal_steps": 7274612,
+        "intersection_tests": 1652191
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 604580700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24325
+          },
+          "traversal_steps": 9274256,
+          "intersection_tests": 579149942
+        },
+        {
+          "rays_shot": 230384,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 548964500
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41448
+          },
+          "traversal_steps": 8633979,
+          "intersection_tests": 999593143
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073261,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 24313800
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25093
+        },
+        "traversal_steps": 110348763,
+        "intersection_tests": 5329342417
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073261,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 825937300
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29821
+        },
+        "traversal_steps": 64556895,
+        "intersection_tests": 6526544528
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 169260100
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 735
+        },
+        "traversal_steps": 7273581,
+        "intersection_tests": 1642146
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 702523700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24751
+          },
+          "traversal_steps": 9288146,
+          "intersection_tests": 580845303
+        },
+        {
+          "rays_shot": 230391,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 647125700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41873
+          },
+          "traversal_steps": 8620455,
+          "intersection_tests": 997836102
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073285,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 334511500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25242
+        },
+        "traversal_steps": 110271157,
+        "intersection_tests": 5351834746
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073285,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 32036300
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29920
+        },
+        "traversal_steps": 64562259,
+        "intersection_tests": 6522504838
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 184803900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 802
+        },
+        "traversal_steps": 7271784,
+        "intersection_tests": 1654207
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 587139100
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24250
+          },
+          "traversal_steps": 9271398,
+          "intersection_tests": 582102387
+        },
+        {
+          "rays_shot": 230387,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 588838000
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41621
+          },
+          "traversal_steps": 8617649,
+          "intersection_tests": 999301384
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073303,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 96787300
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25127
+        },
+        "traversal_steps": 110297944,
+        "intersection_tests": 5346365917
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073303,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 710416700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29764
+        },
+        "traversal_steps": 64539416,
+        "intersection_tests": 6520855549
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 170197500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 739
+        },
+        "traversal_steps": 7276844,
+        "intersection_tests": 1651559
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 597897500
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24296
+          },
+          "traversal_steps": 9294939,
+          "intersection_tests": 582276648
+        },
+        {
+          "rays_shot": 230391,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 676038700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41998
+          },
+          "traversal_steps": 8634339,
+          "intersection_tests": 1006488608
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073303,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 381018500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25265
+        },
+        "traversal_steps": 110312850,
+        "intersection_tests": 5353629648
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073303,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 745778700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29781
+        },
+        "traversal_steps": 64607051,
+        "intersection_tests": 6512166138
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 185437400
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 805
+        },
+        "traversal_steps": 7273820,
+        "intersection_tests": 1648230
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 509674900
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 23914
+          },
+          "traversal_steps": 9268236,
+          "intersection_tests": 578569563
+        },
+        {
+          "rays_shot": 230381,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 387650300
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 40748
+          },
+          "traversal_steps": 8607354,
+          "intersection_tests": 998491944
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073201,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 983770700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25074
+        },
+        "traversal_steps": 110219636,
+        "intersection_tests": 5344472199
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073201,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 95173100
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29951
+        },
+        "traversal_steps": 64525657,
+        "intersection_tests": 6537428886
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 169198300
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 734
+        },
+        "traversal_steps": 7271556,
+        "intersection_tests": 1640154
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 606130400
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24332
+          },
+          "traversal_steps": 9273630,
+          "intersection_tests": 579596723
+        },
+        {
+          "rays_shot": 230392,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 586741000
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41611
+          },
+          "traversal_steps": 8635949,
+          "intersection_tests": 1001017037
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073276,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 981489000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25072
+        },
+        "traversal_steps": 110289372,
+        "intersection_tests": 5343164925
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073276,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 568282900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29696
+        },
+        "traversal_steps": 64577295,
+        "intersection_tests": 6524618972
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 204662200
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 888
+        },
+        "traversal_steps": 7275370,
+        "intersection_tests": 1651978
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 727541700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24859
+          },
+          "traversal_steps": 9290530,
+          "intersection_tests": 581334218
+        },
+        {
+          "rays_shot": 230388,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 784422600
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 42469
+          },
+          "traversal_steps": 8642168,
+          "intersection_tests": 1010334770
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073207,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 62181400
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25112
+        },
+        "traversal_steps": 110357762,
+        "intersection_tests": 5368976699
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073207,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 84302000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29946
+        },
+        "traversal_steps": 64611577,
+        "intersection_tests": 6562178152
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 170696700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 741
+        },
+        "traversal_steps": 7275515,
+        "intersection_tests": 1650905
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 658589700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24560
+          },
+          "traversal_steps": 9276753,
+          "intersection_tests": 587451768
+        },
+        {
+          "rays_shot": 230385,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 556803200
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41482
+          },
+          "traversal_steps": 8642211,
+          "intersection_tests": 1008121497
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073228,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 371686800
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25261
+        },
+        "traversal_steps": 110318654,
+        "intersection_tests": 5365505002
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073228,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 863850500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29839
+        },
+        "traversal_steps": 64610699,
+        "intersection_tests": 6534325990
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 185370600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 805
+        },
+        "traversal_steps": 7274216,
+        "intersection_tests": 1649860
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 628624500
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24430
+          },
+          "traversal_steps": 9284023,
+          "intersection_tests": 578427940
+        },
+        {
+          "rays_shot": 230384,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 411080900
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 40850
+          },
+          "traversal_steps": 8637372,
+          "intersection_tests": 995577617
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073240,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 431234500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 24807
+        },
+        "traversal_steps": 110283517,
+        "intersection_tests": 5316903617
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073240,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 805253400
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29811
+        },
+        "traversal_steps": 64599012,
+        "intersection_tests": 6483537013
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 170122800
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 738
+        },
+        "traversal_steps": 7272458,
+        "intersection_tests": 1647836
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 615866400
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24374
+          },
+          "traversal_steps": 9282272,
+          "intersection_tests": 580830033
+        },
+        {
+          "rays_shot": 230389,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 706067600
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 42129
+          },
+          "traversal_steps": 8633434,
+          "intersection_tests": 1005335750
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073273,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 31988700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25097
+        },
+        "traversal_steps": 110313039,
+        "intersection_tests": 5349246089
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073273,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 772296300
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29795
+        },
+        "traversal_steps": 64561634,
+        "intersection_tests": 6535483585
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 169502400
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 736
+        },
+        "traversal_steps": 7274326,
+        "intersection_tests": 1638407
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 702747200
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24752
+          },
+          "traversal_steps": 9274420,
+          "intersection_tests": 579579604
+        },
+        {
+          "rays_shot": 230393,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 578040900
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41573
+          },
+          "traversal_steps": 8627818,
+          "intersection_tests": 1007115407
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073261,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 201315600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25178
+        },
+        "traversal_steps": 110310123,
+        "intersection_tests": 5352781268
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073261,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 190060900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29996
+        },
+        "traversal_steps": 64553865,
+        "intersection_tests": 6570037664
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 177648000
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 771
+        },
+        "traversal_steps": 7276168,
+        "intersection_tests": 1648386
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 512869500
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 23927
+          },
+          "traversal_steps": 9280095,
+          "intersection_tests": 580454932
+        },
+        {
+          "rays_shot": 230391,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 542757400
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41420
+          },
+          "traversal_steps": 8631155,
+          "intersection_tests": 1002463339
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073270,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 680060400
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 24927
+        },
+        "traversal_steps": 110270898,
+        "intersection_tests": 5354935009
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073270,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 298034600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29566
+        },
+        "traversal_steps": 64583412,
+        "intersection_tests": 6523006087
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 170341600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 739
+        },
+        "traversal_steps": 7276113,
+        "intersection_tests": 1649663
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 653765500
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24539
+          },
+          "traversal_steps": 9291003,
+          "intersection_tests": 583164894
+        },
+        {
+          "rays_shot": 230383,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 616011700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41739
+          },
+          "traversal_steps": 8628517,
+          "intersection_tests": 1005930627
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073189,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 343744900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25248
+        },
+        "traversal_steps": 110304341,
+        "intersection_tests": 5364377870
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073189,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 98987300
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29953
+        },
+        "traversal_steps": 64590343,
+        "intersection_tests": 6559740137
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 171405800
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 744
+        },
+        "traversal_steps": 7272439,
+        "intersection_tests": 1638931
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 724214300
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24845
+          },
+          "traversal_steps": 9275012,
+          "intersection_tests": 581772236
+        },
+        {
+          "rays_shot": 230380,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 637167700
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41832
+          },
+          "traversal_steps": 8629798,
+          "intersection_tests": 1009179627
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073228,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 112707400
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25136
+        },
+        "traversal_steps": 110349219,
+        "intersection_tests": 5376794435
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073228,
+        "total_ray_time": {
+          "secs": 62,
+          "nanos": 434662800
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 30115
+        },
+        "traversal_steps": 64566145,
+        "intersection_tests": 6562271945
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 170033500
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 738
+        },
+        "traversal_steps": 7275959,
+        "intersection_tests": 1652685
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 560137300
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 24133
+          },
+          "traversal_steps": 9274384,
+          "intersection_tests": 580426036
+        },
+        {
+          "rays_shot": 230382,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 483541500
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41164
+          },
+          "traversal_steps": 8621181,
+          "intersection_tests": 1001706483
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073207,
+        "total_ray_time": {
+          "secs": 52,
+          "nanos": 301870900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25228
+        },
+        "traversal_steps": 110351721,
+        "intersection_tests": 5343155467
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073207,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 794587100
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29806
+        },
+        "traversal_steps": 64628226,
+        "intersection_tests": 6526318182
+      }
+    },
+    {
+      "primary_ray_statistics": {
+        "rays_shot": 230400,
+        "total_ray_time": {
+          "secs": 0,
+          "nanos": 184803600
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 802
+        },
+        "traversal_steps": 7277631,
+        "intersection_tests": 1646298
+      },
+      "diffuse_ray_statistics": [
+        {
+          "rays_shot": 230400,
+          "total_ray_time": {
+            "secs": 5,
+            "nanos": 503883900
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 23888
+          },
+          "traversal_steps": 9290470,
+          "intersection_tests": 583024715
+        },
+        {
+          "rays_shot": 230385,
+          "total_ray_time": {
+            "secs": 9,
+            "nanos": 577787400
+          },
+          "time_per_ray": {
+            "secs": 0,
+            "nanos": 41573
+          },
+          "traversal_steps": 8617740,
+          "intersection_tests": 1006913559
+        }
+      ],
+      "shadow_ray_statistics": {
+        "rays_shot": 2073222,
+        "total_ray_time": {
+          "secs": 51,
+          "nanos": 873575700
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 25021
+        },
+        "traversal_steps": 110310506,
+        "intersection_tests": 5365316110
+      },
+      "ao_ray_statistics": {
+        "rays_shot": 2073222,
+        "total_ray_time": {
+          "secs": 61,
+          "nanos": 492210900
+        },
+        "time_per_ray": {
+          "secs": 0,
+          "nanos": 29660
+        },
+        "traversal_steps": 64588973,
+        "intersection_tests": 6533934419
+      }
+    }
+  ],
+  "build_statistics": [
+    {
+      "frame_index": 0,
+      "sah": 7407.4243,
+      "epo": 20713.826
+    }
+  ]
+}
